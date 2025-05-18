@@ -4,7 +4,14 @@ It should be noted that this project is carried out in the Windows system, if yo
 * Windows system
 * NVIDIA GeForce RTX 3060
 * PyCharm 2020
-* 
+* Python 3.6.3
+* torch==1.0.0
+* scipy==1.1.0
+* scikit-image==0.14.0
+* scikit-learn==0.19.1
+* pandas==0.20.3
+* numpy==1.14.3
+
 # Prepare data
 Reference:Johns N I, Gomes A L, Yim S S, et al.Metagenomic mining of regulatory elements enables programmable species-selective gene expression.Nature methods,2018, 15 (5): 323-329.
 
