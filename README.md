@@ -1,6 +1,6 @@
 # ProSTR
 ProSTR is a two-step conditional generation framework for designing high-activity promoters by incorporating STR priors. <br>
-STR is a two-step framework for promoter design. In Step 1, it constructs and selects high-scoring core scaffolds that jointly contain TFBS and STR elements. In Step 2, it fills the upstream and downstream flanking regions under scaffold constraints to generate full-length promoter sequences. Finally, an independently trained expression-activity predictor is used to score and rank the completed sequences, yielding high-potential candidates. This staged strategy improves structural controllability, screening efficiency, and overall stability.
+In Step 1, it constructs and selects high-scoring core scaffolds that jointly contain TFBS and STR elements. In Step 2, it fills the upstream and downstream flanking regions under scaffold constraints to generate full-length promoter sequences. Finally, an independently trained expression-activity predictor is used to score and rank the completed sequences, yielding high-potential candidates. This staged strategy improves structural controllability, screening efficiency, and overall stability.
 
 # Requirements
 You need to configure the following environment before running the ProSTR model. 
